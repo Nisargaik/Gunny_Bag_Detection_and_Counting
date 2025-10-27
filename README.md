@@ -32,6 +32,14 @@ python main.py
 
     
 ## Screenshots
+<img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/1184a7de-ba6b-48a1-80ee-e896675aef28" />
+
+<img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/18ba8265-a9e3-4b34-8296-670826f2e2b1" />
+
+<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/1de1b17f-69bb-4a62-995b-9996ebf496ca" />
+
+
+
 
 
 
