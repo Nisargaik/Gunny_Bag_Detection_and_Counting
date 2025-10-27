@@ -1,0 +1,8 @@
+torch
+torchvision
+torchaudio
+ultralytics
+pillow
+pandas
+numpy
+yolov5
